@@ -1,0 +1,33 @@
+付録A JavaScript の埋め込み（古籏 一浩）	167
+    A.1　埋め込みの基本	167
+        A.1.1　文書アクションでのJavaScript 埋め込み	169
+        A.1.2　フォームレベルのJavaScript 埋め込み	172
+        A.1.3　ページレベルのJavaScript 埋め込み	176
+        A.1.4　PDF 読み込み時のJavaScript 埋め込み	179
+        A.1.5　一括してJavaScript を編集する	182
+    A.2　JavaScript のデバッグ	183
+        A.2.1　デバッガーの起動	183
+    A.3　しおりを階層化テキストで書き出す	188
+    A.4　閲覧期限を設定する	190
+    A.5　閲覧回数を表示する	191
+    A.6　フルスクリーンモードにする	193
+    A.7　自動的にしおりを作成する	194
+    A.8　スライドショー	195
+    A.9　ゼロパディング	196
+    A.10　メニューの実行	198
+    A.11　アクション／バッチ処理	203
+    A.12　その他のJavaScript	207
+    A.13　JavaScript コードを一括して削除する	207
+付録B 電子書籍に便利なツール集（千住 治郎）	209
+    B.1　文字列を検索する̶pdfgrep	209
+        B.1.1　poppler ライブラリ	210
+    B.2　PDF を比較する̶diffpdf	211
+    B.3　pdftk のGUI̶pdfchain	212
+    B.4　WYSIWYG なPDF エディタ̶pdfedit	213
+    B.5　PDF の版管理機能̶pdfresurrect	214
+        B.5.1　処理内容	215
+        B.5.2　pdfresurrect の機能	216
+        B.5.3　利用形態（案）	216
+    B.6　Perl のText::PDF モジュール	216
+    B.7　電子書籍の管理―calibre	218
+索引	221
